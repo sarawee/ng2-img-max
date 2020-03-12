@@ -31,7 +31,7 @@
     ],
     "dependencies": {
         "exifr": "^4.3.0",
-        "ng2-pica": "^1.2.12"
+        "ng2-pica": "git+https://github.com/sarawee/ng2-pica.git"
     },
     "peerDependencies": {
         "@angular/core": "^6.0.4",
